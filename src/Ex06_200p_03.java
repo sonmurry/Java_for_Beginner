@@ -5,10 +5,20 @@ public class Ex06_200p_03 {
 		// TODO Auto-generated method stub
 		int i;
 		
-		for (i = 0; i < 5; i++) {
-			System.out.printf("안녕하세요? 빙글빙글 for 문을 공부중입니다.^^\n");
+		for (i = 0; i < 3; i++) {
+			System.out.printf("안녕하세요? \n");
+			System.out.printf("##또 안녕하세요?## \n");
 			
 		}
+		
+		System.out.printf("\n\n");
+		
+		
+		for (i = 0; i < 3; i++) 
+			System.out.printf("안녕하세요? \n");
+			System.out.printf("##또 안녕하세요?## \n");
+			
+		
 	}
 
 }
