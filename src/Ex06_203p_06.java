@@ -1,5 +1,5 @@
 
-public class Ex06_203p_Directly_03 {
+public class Ex06_203p_06 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
