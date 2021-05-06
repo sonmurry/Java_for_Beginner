@@ -14,6 +14,7 @@ public class Ex06_207p_Directly_05 {
 		
 		System.out.printf(" 1부터 100까지 3의배수의 합: %d", hap);
 		
+		
 	}
 
 }
