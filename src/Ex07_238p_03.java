@@ -13,9 +13,10 @@ public class Ex07_238p_03 {
 			a = s.nextInt();
 			System.out.printf("더할 두 번째 수 입력 : ");
 			b = s.nextInt();
-			System.out.printf("%d + %d = %d \n", a, b, a+b);
-			
+			System.out.printf("%d + %d = %d \n", a, b, a+b);	
+	
 		}
+		
 	}
 
 }
