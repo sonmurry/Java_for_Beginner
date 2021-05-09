@@ -7,12 +7,12 @@ public class Ex07_236p_02 {
 		int i;
 		
 		i = 0;
-		
-		do {
+		while ( i <= 10) {
 			hap += i;
 			i++;
-		}while ( i <= 10); 
+		}
 		System.out.printf(" 1에서 10까지의 합 : %d \n", hap);
+		
 	}
 
 }
