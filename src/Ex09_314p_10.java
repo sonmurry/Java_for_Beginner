@@ -32,6 +32,5 @@ public class Ex09_314p_10 {
 		
 		System.out.printf("\n손님~ 커피 여기 있습니다.");
 	}
-	
 
 }
