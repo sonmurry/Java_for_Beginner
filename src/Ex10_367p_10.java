@@ -1,6 +1,6 @@
 import java.io.FileInputStream;
 
-public class Ex10_377p_10 {
+public class Ex10_367p_10 {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
